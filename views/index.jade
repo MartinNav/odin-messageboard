@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  h1= title
+  h2 messages:
+  ul
+    each v in mes 
+      h4= v.user
+      h5.time-st at #{v.added}
+      p= v.text 
+

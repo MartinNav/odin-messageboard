@@ -1,0 +1,15 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.time-st{
+  font-size: 8px;
+  margin-top: -15px;
+}
+p{
+  font-size: 32px;
+}
